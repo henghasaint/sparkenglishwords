@@ -7,11 +7,11 @@ identical
 
 1. 单词 identical --> 词根 ***ident***(=the same)
 
-    1.  identify
+    1.  identify [ify(=make 使)]
 
     1.  identification
 
-    1.  identity
+    1.  identity［ity(表示性质)］
 
 ```
 construct
@@ -23,11 +23,11 @@ construct
 	constructive
 
 1.  (1)单词 construct(建造) --> 词根 struct(构造)
-    1. destruction
+    1. destruction ［de (=apart) ion(n.)］
 
     1. destructive
 
-    1. obstruct
+    1. obstruct [ob (=againt)]
 
     1. obstruction
 
@@ -38,7 +38,7 @@ construct
 
     1. instructive
 
-    1. instructor
+    1. instructor [professor 教授， associate professor 副教授，assistant 助教]
 
 ```
 author
@@ -53,9 +53,11 @@ author
 
 	authorize
 
-	authentic
+	authentic［根义：原作的，非伪造的］
 
 ```
 temperature
 ```
-1.
+1.  temperature
+
+2.   
