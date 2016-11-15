@@ -86,6 +86,10 @@
 
     1. destruction ［de (=apart) ion(n.)］
 
+	The flood caused serious destruction to the railway.
+	
+	洪水严重毁坏了铁路。
+
     1. destructive
 
     1. obstruct [ob (=againt)]
