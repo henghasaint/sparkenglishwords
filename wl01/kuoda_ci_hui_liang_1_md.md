@@ -1,7 +1,7 @@
 # kuoda cihui liang 1
 
 ```
-identical
+# identical
 ```
 1.  identical
 
@@ -14,7 +14,7 @@ identical
     1.  identity［ity(表示性质)］
 
 ```
-construct
+# construct
 ```
 1.	construct
 
@@ -41,7 +41,7 @@ construct
     1. instructor [professor 教授， associate professor 副教授，assistant 助教]
 
 ```
-author
+# author
 ```
 1.  author
 
@@ -56,8 +56,9 @@ author
 	authentic［根义：原作的，非伪造的］
 
 ```
-temperature
+# temperature
 ```
+
 1.  temperature
 
 2.   \left(
