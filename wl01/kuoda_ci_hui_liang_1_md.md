@@ -63,7 +63,24 @@
 
 1.  construction
 
+	There are two new hotels under construction.
+
+	有两家新饭店正在兴建。
+
+	It is an object of simple construction.
+
+	它是一个简单结构的物体。
+
+
 	constructive
+
+	I have just completed a constructive dialogue with her.
+
+	我刚刚结束了与她的建设性对话。
+
+	At least I'm doing something constructive.
+
+	至少，我是在做有益的事情。
 
 1.  (1)单词 construct(建造) --> 词根 struct(构造)
 
