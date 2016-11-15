@@ -32,6 +32,7 @@
     1. obstruction
 
     (2)教师是人类灵魂的工程师 --> instruct ?
+	
     1. instruct [in-(内部)＋struct(构筑)]
 
     1. instruction
