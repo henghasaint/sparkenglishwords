@@ -56,7 +56,7 @@
 	authentic［根义：原作的，非伪造的］
 
 ```
-# temperature
+* temperature
 ```
 
 1.  temperature
