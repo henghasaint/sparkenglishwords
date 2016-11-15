@@ -60,4 +60,16 @@ temperature
 ```
 1.  temperature
 
-2.   
+2.   \left(
+
+	 \right)
+
+:sunny:
+
+d
+
+w
+> >d
+
+> >i
+--> f
