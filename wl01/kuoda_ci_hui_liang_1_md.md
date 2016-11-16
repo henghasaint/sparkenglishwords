@@ -87,7 +87,7 @@
     1. destruction ［de (=apart) ion(n.)］
 
 	The flood caused serious destruction to the railway.
-	
+
 	洪水严重毁坏了铁路。
 
     1. destructive
@@ -128,23 +128,61 @@
 ```
 
 1.  temperature
-temper
-I am fine
-discovery
 
-2.   \left(
+2.  temperature(温度)，a temperature(发烧) --> temper (心情，情绪;发火，发怒)
 
-	 \right)
+	temper
 
+	temperament
 
-:sunny:
-[TOC]
+	temperate
 
-d[^1]:
+	tamper
 
 
-w
-> >d
->
-> >i
---> f
+```
+# grasp
+```
+
+1.  grasp
+
+2.  gr-表示“抓住”
+
+	grab
+
+	grip
+
+	grope
+
+
+```
+#  press
+```
+
+1.  press
+
+2.  (1) compress族
+	compress [com（一起）＋ press（压）]
+
+	compressor
+
+	(2) depress & suppress 族
+	depress [de(向下)]
+
+	depressed
+
+	depressing
+
+	depression
+
+	suppress［sup(=sub(在下))
+
+	suppression
+
+	(3) express & impress 族
+
+	express
+
+```
+#
+```
