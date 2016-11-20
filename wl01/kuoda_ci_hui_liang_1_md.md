@@ -183,6 +183,138 @@
 
 	express
 
+	expression
+
+	expressive
+
+	expressly
+
+	impress
+
+	impression
+
+	impressive
+
+	(4) oppress
+
+	oppress
+
+	oppression
+
+	oppressive
+
+
+
 ```
-#
+#   shell
+```
+
+1.  shell
+2.  (1)shell(壳) --> skull(脑壳)
+
+	skull
+
+	(2)shell［(外)壳 --> 防护物］词根 shelt
+
+	shelter
+
+	(3)shelt --> shield
+
+	shield
+
+
+```
+#	pile  
+```
+
+1.  pile
+
+2.  compile [com(together) + pile;堆砌在一起]
+
+3.  已识pile，再识cumul(=pile,heap)
+
+    accumulate
+
+	cumulative
+
+
+```
+#	tend
+```
+
+1.  tend
+
+2.  词根 tend(伸)
+
+	tendency
+
+	tender
+
+	tendon
+
+3.  词根 tend --> 词根 {tens,tent}
+
+	(1)contend族
+
+	contend
+
+	contention
+
+	(2)extend族
+
+	extend
+
+	extended
+
+	extensive
+
+	extension
+
+	extent
+
+	(3) extensive <--> intensive
+
+	intensive
+
+	(4) intend族
+
+	intend
+
+	intent
+
+	intention
+
+	intentional
+
+	(5) pretend族
+
+	pretend
+
+	pretentious
+
+	unpretentious
+
+4.  词根 tens(e)(伸张) --> 词根 tens(e) (拉紧，紧张)
+
+	tense
+
+	tension
+
+	hypertension
+
+	intense
+
+	intensify
+
+	intensity
+
+	tensile
+
+	ostensibly
+
+	ostentatious
+
+
+```
+#	special
 ```
