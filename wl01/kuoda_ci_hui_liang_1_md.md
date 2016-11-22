@@ -349,3 +349,19 @@
 ```
 
 1.  arrange
+
+2.  arrangement
+
+  	rearrange
+
+3.  arrange(安排，排列) --> range(排列)
+
+	range
+
+	ranger
+
+	rank
+
+	high-rank
+
+	
