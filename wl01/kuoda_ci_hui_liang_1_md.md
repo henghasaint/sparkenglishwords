@@ -364,4 +364,23 @@
 
 	high-rank
 
+
+```
+#  tailor
+```
+
+1.  tailor
+
+2.  tailor --> 词根tail(=cut 裁，切，分割)
+
+	curtail
+
+	detail
+
+	entail
+
+	retail
+
+	retailer
+
 	
