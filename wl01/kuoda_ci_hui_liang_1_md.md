@@ -318,3 +318,34 @@
 ```
 #	special
 ```
+
+1.	special
+
+2.  勿混｛special 特殊的-->专门的; specific 特定的-->具体的｝
+
+	A 组：special族
+
+	specialist
+
+	specialize
+
+	speciality
+
+	B 组：specific族
+
+	specify
+
+3.  [汉]专门的－－属于某一种或某一类的
+
+	[英]special --speci(种，类)＋-al(属于...的)
+
+	species
+
+	specimen
+
+
+```
+#  arrange
+```
+
+1.  arrange
