@@ -86,11 +86,15 @@
 
     1. destruction ［de (=apart) ion(n.)］
 
-	The flood caused serious destruction to the railway.
-	
-	洪水严重毁坏了铁路。
+		The flood caused serious destruction to the railway.
+
+		洪水严重毁坏了铁路。
 
     1. destructive
+
+		The destructive force of the storm was huge.
+
+		沙暴破坏性的力量是巨大的。
 
     1. obstruct [ob (=againt)]
 
