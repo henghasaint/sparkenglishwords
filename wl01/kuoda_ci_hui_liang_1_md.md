@@ -91,6 +91,7 @@
 	洪水严重毁坏了铁路。
 
     1. destructive
+    	testing
 
     1. obstruct [ob (=againt)]
 
@@ -382,5 +383,3 @@
 	retail
 
 	retailer
-
-	
