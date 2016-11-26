@@ -174,9 +174,9 @@
 ```
 1.  author
 
-		The author bared his heart to the world.
+	The author bared his heart to the world.
 
-		作家向全世界敞开他的心扉。
+	作家向全世界敞开他的心扉。
 
 1.  author [创造者-->权威]
 
