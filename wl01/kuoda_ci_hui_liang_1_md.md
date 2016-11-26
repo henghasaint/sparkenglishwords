@@ -175,9 +175,9 @@
 ```
 1.  author
 
-		The author bared his heart to the world.
+	The author bared his heart to the world.
 
-		作家向全世界敞开他的心扉。
+	作家向全世界敞开他的心扉。
 
 1.  author [创造者-->权威]
 
@@ -213,13 +213,53 @@
 
 1.  temperature
 
+	Her temperature soon returned to normal.
+
+	她的体温很快恢复正常。
+
 2.  temperature(温度)，a temperature(发烧) --> temper (心情，情绪;发火，发怒)
 
 	temper
 
+	I need to better control my temper.
+
+	我需要更好地控制我的脾气。
+
+	To survive as individuals, we'll have to learn to temper our trust.
+
+	作为个体想要生存，我们就必须学会调和我们的信任。
+
+	We should temper ourselves through manual labour.
+
+	我们应该通过劳动锻炼自己。
+
 	temperament
 
+	He is a man with an artistic temperament.
+
+	他是个有艺术家气质的男子。
+
+	The two brothers have entirely different temperament.
+
+	这两兄弟的性情完全不同。
+
 	temperate
+
+	This town had a temperate climate.
+
+	这个小城气候温和。
+
+	He is always temperate in his language.
+
+	他的语言总是那么温和。
+
+	Alfred is temperate in eating .
+
+	阿佛烈在吃方面是有节制的。
+
+	People can only pursue temperate security risks for information system's security.
+
+	在信息系统的安全问题上，只能追求适度的安全风险。
 
 	tamper
 
