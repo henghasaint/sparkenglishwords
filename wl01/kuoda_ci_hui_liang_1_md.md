@@ -86,42 +86,126 @@
 
     1. destruction ［de (=apart) ion(n.)］
 
-	The flood caused serious destruction to the railway.
+		The flood caused serious destruction to the railway.
 
-	洪水严重毁坏了铁路。
+		洪水严重毁坏了铁路。
 
     1. destructive
-		issue-101 on master
+
+		The destructive force of the storm was huge
+
+		沙暴破坏性的力量是巨大的
+
     1. obstruct [ob (=againt)]
 
+		Don’t obstruct the police in the course of their duty
+
+		不要妨碍警方执行公务.
+
+		No difficulty can ever obstruct the advance of the people.
+
+		任何困难都阻挡不住人民的前进。
+
     1. obstruction
+
+		Your interference is an obstuction of justice.
+
+		你的干预阻碍了正义。
+
+		This is definitely an obstruction that blocks people who want to communicate each other.
+
+		这碓实是一个障碍，阻隔了人们彼此沟通。
 
     (2)教师是人类灵魂的工程师 --> instruct ?
 
     1. instruct [in-(内部)＋struct(构筑)]
 
+		 Your pet will not attack anything unless you instruct it to.
+
+		 你的宠物将不会攻击任何敌人除非有了你的命令。
+
+		 I will instruct him whether (he needs) to come today or tomorrow.
+
+		 我会通知他（需要）今天来还是明天来。
+
+		 I need someone to instruct me on how to use the computer.
+
+		 我需要有人指导我如何用电脑。
+
     1. instruction
+
+		 You must obey my instruction.
+
+		 你必须服从我的命令。
+
+		 This instruction capacitates us to understand the problem.
+
+		 这个用法说明书使我们能理解这个问题。
+
+		 It is the current instruction that has been executed during the time of crash.
+
+		 这是在崩溃期间执行的当前指令。
+
+		 Must report any mistakes or accidents immediately and ask for instruction.
+
+		 如发生任何意外或做错事，应向雇主汇报及寻求指示。
+
+		 Under his instruction I have made great progress in English.
+
+		 在他的教导下，我的英语有了很大进步。
 
     1. instructive
 
+		 The examples are good and instructive.
+
+		 示例是优秀且有指导意义的。
+
+		 Sometimes we go swimming or go dancing and sometimes I go to read some instructive books.
+
+		 有时我们去游泳或去跳舞，有时我们去看一些有益的书。
+
     1. instructor [professor 教授， associate professor 副教授，assistant 助教]
 
+		 The college jumped him from instructor to full professor.
+
+		 学院突然把他从讲师越级提升为正教授。
 
 ```
 # author
 ```
 1.  author
 
+		The author bared his heart to the world.
+
+		作家向全世界敞开他的心扉。
+
 1.  author [创造者-->权威]
 
 	authority
 
+	The new building must be financed by the local authority.
+
+	新大楼的建筑资金必须由地方当局提供。
+
+	Then his father used his authority to stop him.
+
+	然后他的父亲用权威阻止了他。
+
 	authoritarian
+
+	Still, China is an authoritarian country with a weak legal system.
+
+	不过，中国是一个威权制国家，法律体系薄弱。
 
 	authorize
 
+	The company did not authorize the sixth business department to DO chartering business.
+
+	公司并没有授权第六业务部门开展租赁业务。
+
 	authentic［根义：原作的，非伪造的］
 
+	authentic text 正本 ; 真确本 ; 原创性的书篇 ; 原音话语
 
 ```
 # temperature
