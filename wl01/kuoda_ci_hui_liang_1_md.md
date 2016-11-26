@@ -133,6 +133,26 @@
 
     1. instruction
 
+		 You must obey my instruction.
+
+		 你必须服从我的命令。
+
+		 This instruction capacitates us to understand the problem.
+
+		 这个用法说明书使我们能理解这个问题。
+
+		 It is the current instruction that has been executed during the time of crash.
+
+		 这是在崩溃期间执行的当前指令。
+
+		 Must report any mistakes or accidents immediately and ask for instruction.
+
+		 如发生任何意外或做错事，应向雇主汇报及寻求指示。
+
+		 Under his instruction I have made great progress in English.
+
+		 在他的教导下，我的英语有了很大进步。
+
     1. instructive
 
     1. instructor [professor 教授， associate professor 副教授，assistant 助教]
