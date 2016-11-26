@@ -155,24 +155,56 @@
 
     1. instructive
 
+		 The examples are good and instructive.
+
+		 示例是优秀且有指导意义的。
+
+		 Sometimes we go swimming or go dancing and sometimes I go to read some instructive books.
+
+		 有时我们去游泳或去跳舞，有时我们去看一些有益的书。
+
     1. instructor [professor 教授， associate professor 副教授，assistant 助教]
 
+		 The college jumped him from instructor to full professor.
+
+		 学院突然把他从讲师越级提升为正教授。
 
 ```
 # author
 ```
 1.  author
 
+		The author bared his heart to the world.
+
+		作家向全世界敞开他的心扉。
+
 1.  author [创造者-->权威]
 
 	authority
 
+	The new building must be financed by the local authority.
+
+	新大楼的建筑资金必须由地方当局提供。
+
+	Then his father used his authority to stop him.
+
+	然后他的父亲用权威阻止了他。
+
 	authoritarian
+
+	Still, China is an authoritarian country with a weak legal system.
+
+	不过，中国是一个威权制国家，法律体系薄弱。
 
 	authorize
 
+	The company did not authorize the sixth business department to DO chartering business.
+
+	公司并没有授权第六业务部门开展租赁业务。
+
 	authentic［根义：原作的，非伪造的］
 
+	authentic text 正本 ; 真确本 ; 原创性的书篇 ; 原音话语
 
 ```
 # temperature
