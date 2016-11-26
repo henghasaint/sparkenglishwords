@@ -91,7 +91,7 @@
 	洪水严重毁坏了铁路。
 
     1. destructive
-		master testing
+		testing
     1. obstruct [ob (=againt)]
 
     1. obstruction
