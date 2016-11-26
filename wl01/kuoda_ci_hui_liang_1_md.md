@@ -104,12 +104,32 @@
 		No difficulty can ever obstruct the advance of the people.
 
 		任何困难都阻挡不住人民的前进。
-		
+
     1. obstruction
+
+		Your interference is an obstuction of justice.
+
+		你的干预阻碍了正义。
+
+		This is definitely an obstruction that blocks people who want to communicate each other.
+
+		这碓实是一个障碍，阻隔了人们彼此沟通。
 
     (2)教师是人类灵魂的工程师 --> instruct ?
 
     1. instruct [in-(内部)＋struct(构筑)]
+
+		 Your pet will not attack anything unless you instruct it to.
+
+		 你的宠物将不会攻击任何敌人除非有了你的命令。
+
+		 I will instruct him whether (he needs) to come today or tomorrow.
+
+		 我会通知他（需要）今天来还是明天来。
+
+		 I need someone to instruct me on how to use the computer.
+
+		 我需要有人指导我如何用电脑。
 
     1. instruction
 
