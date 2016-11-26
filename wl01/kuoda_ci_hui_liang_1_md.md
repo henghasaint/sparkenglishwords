@@ -86,9 +86,9 @@
 
     1. destruction ［de (=apart) ion(n.)］
 
-	The flood caused serious destruction to the railway.
+		The flood caused serious destruction to the railway.
 
-	洪水严重毁坏了铁路。
+		洪水严重毁坏了铁路。
 
     1. destructive
 		The destructive force of the storm was huge
@@ -97,6 +97,14 @@
 
     1. obstruct [ob (=againt)]
 
+		Don’t obstruct the police in the course of their duty
+
+		不要妨碍警方执行公务.
+
+		No difficulty can ever obstruct the advance of the people.
+
+		任何困难都阻挡不住人民的前进。
+		
     1. obstruction
 
     (2)教师是人类灵魂的工程师 --> instruct ?
