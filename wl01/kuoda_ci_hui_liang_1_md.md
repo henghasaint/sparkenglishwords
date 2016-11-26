@@ -244,6 +244,22 @@
 
 	temperate
 
+	This town had a temperate climate.
+
+	这个小城气候温和。
+
+	He is always temperate in his language.
+
+	他的语言总是那么温和。
+
+	Alfred is temperate in eating .
+
+	阿佛烈在吃方面是有节制的。
+
+	People can only pursue temperate security risks for information system's security.
+
+	在信息系统的安全问题上，只能追求适度的安全风险。
+
 	tamper
 
 
