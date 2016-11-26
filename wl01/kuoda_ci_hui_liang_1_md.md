@@ -91,6 +91,9 @@
 	洪水严重毁坏了铁路。
 
     1. destructive
+		The destructive force of the storm was huge
+
+		沙暴破坏性的力量是巨大的
 
     1. obstruct [ob (=againt)]
 
@@ -382,5 +385,3 @@
 	retail
 
 	retailer
-
-	
