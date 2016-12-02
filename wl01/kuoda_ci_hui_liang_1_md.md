@@ -319,7 +319,23 @@
 
 	grip
 
+	How much can the President relax his grip over the nation?
+
+	总统可以对国家的控制放松到什么样的程度？
+
+	 Keep a tight grip on the rope.
+
+	 紧紧抓住绳索不放。
+
 	grope
+
+	 I grope for the light switch in the dark room.
+
+	 我在黑洞洞的屋里摸索著寻找电灯开关。
+
+	 I went about with her but have never had a grope.
+
+	 我和她来往已久,但未发生过性关系.
 
 
 ```
