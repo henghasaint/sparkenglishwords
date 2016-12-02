@@ -269,9 +269,53 @@
 
 1.  grasp
 
+	 If you grasp this rope, I will pull you up.
+
+	 如果你抓住这根绳子，我可把你拉起来。
+
+	 I began to grasp the idea.
+
+	 我开始领会这思想。
+
+	 Once off the body, time looses any grasp on you .
+
+	 一旦离开了你的肉体，时间就失去了对你的控制。
+
+	 Grasp today is to grasp the opportunity .
+
+	 控制今天将控制时机。
+
+	 She has a good grasp of the material.
+
+	 她对这个材料有很好的理解。
+
+	 To grasp the problem, you need to understand what banks do.
+
+	 要理解这个问题，你需要先明白银行是干什么的。
+
+	 At first, these 12 principles were difficult to fully grasp.
+
+	 一开始，这12个原则很难完全理解。
+
 2.  gr-表示“抓住”
 
 	grab
+
+	I managed to grab her hand
+
+	我抓到了她的手。
+
+	This gives us opportunity to grab market share.
+
+	这就给了我们攫取市场份额的机会。
+
+	Are you going to grab the microphone for a whole hour?
+
+	你想霸占整个时段的麦克风？
+
+	The army chose this moment to make a grab for power.
+
+	军队选择了这个时机抢夺政权。
 
 	grip
 
