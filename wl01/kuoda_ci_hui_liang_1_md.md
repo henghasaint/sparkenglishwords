@@ -360,6 +360,15 @@
 
 1.  press
 
+	Press'shift " and type " C ".
+
+	按切换键然后打 字母 C.
+
+	Press firmly on the wound to stop the bleeding.
+
+	用力压住伤口止血。
+	
+
 2.  (1) compress族
 	compress [com（一起）＋ press（压）]
 
