@@ -262,6 +262,22 @@
 
 	tamper
 
+	Why would he tamper the document?
+
+	他为什么要窜改这份文件？
+
+	He tried to tamper with decedent's will.
+
+	他试图篡改死者的遗嘱.
+
+	Don't tamper with that car.
+
+	不要乱碰那部车子.
+
+	Don't tamper with my business.
+
+	别干预我的事.
+
 
 ```
 # grasp
