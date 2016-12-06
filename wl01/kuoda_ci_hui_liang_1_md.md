@@ -367,7 +367,38 @@
 	Press firmly on the wound to stop the bleeding.
 
 	用力压住伤口止血。
-	
+
+	I do not press other, I let them have a choice.
+
+	我不逼迫他人，我让他们有一个选择机会。
+
+	Dont hit or heavy press.
+
+	请勿用物体撞击或重压；
+
+	press the juice from oranges
+
+	挤橙子汁
+
+	Allow more freedom of the Internet and the press.
+
+	允许更多的网络自由和新闻自由。
+
+	The new press prints rapidly.
+
+	新的印刷机印得很快。
+
+	Before the printing press, books are written by hand.
+
+	印刷机出现之前，书是手写的。
+
+	I hold her hands and press her to my breast.
+
+	我握住她的手把她抱紧在胸前。
+
+	He sold the right of the book to a press.
+
+	他把这本书的版权卖给了一家出版社。
 
 2.  (1) compress族
 	compress [com（一起）＋ press（压）]
