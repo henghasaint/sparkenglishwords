@@ -401,20 +401,82 @@
 	他把这本书的版权卖给了一家出版社。
 
 2.  (1) compress族
+
 	compress [com（一起）＋ press（压）]
 
 	compressor
 
+	This air compressor doesn't work.
+
+	这个空气压缩机不能工作。
+
 	(2) depress & suppress 族
+
 	depress [de(向下)]
+
+	The little girl depressed the button.
+
+	这个小女孩按下按钮。
+
+	Bad weather depresses me.
+
+	坏天气使我感到郁闷。
+
+	The threat of war has depressed business activity.
+
+	战争的威胁使经济萧条。
+
+	Does mass unemployment depress the wages?
+
+	大量失业是否降低了工资?
 
 	depressed
 
+	The construction industry is no longer as depressed as it was.
+
+	建筑业不再像以往那样萧条了。
+
+	As a result, imports would barely increase beyond their already depressed levels.
+
+	结果是进口将不会超过现在已很低的水平.
+
+	The government's economic policies have further depressed living standards.
+
+	政府的经济政策愈加降低了人们的生活水平。
+
 	depressing
+
+	It's depressing to think that you may never work again.
+
+	想到你可能永不再工作了，令人感到沮丧。
 
 	depression
 
+	Every depression in the bad road was filled with water.
+
+	那坏路上的每一坑凹都积满了水。
+
+	She is in a state of deep depression.
+
+	她处于深深的沮丧状态中。
+
+	The global financial crisis has led to the depression of global market.
+
+	全球金融危机导致全球市场萎靡不振
+
 	suppress［sup(=sub(在下))
+
+	So how could we now turn around and suppress human rights?
+
+	我们今天怎么可能反过来去压制人权?
+
+	He couldn't suppress his anger.
+
+	他简直怒不可遏。
+
+	All these movements were suppressed by the  government.
+
+	所有这些运动都受到政府的镇压。
 
 	suppression
 
