@@ -470,6 +470,10 @@
 
 	我们今天怎么可能反过来去压制人权?
 
+	She suppressed a laugh.
+
+	她忍住不笑。
+
 	He couldn't suppress his anger.
 
 	他简直怒不可遏。
@@ -479,6 +483,8 @@
 	所有这些运动都受到政府的镇压。
 
 	suppression
+
+
 
 	(3) express & impress 族
 
