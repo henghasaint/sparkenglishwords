@@ -484,11 +484,30 @@
 
 	suppression
 
+	the forceful suppression of minorities.
 
+	对少数族群的武力镇压
 
 	(3) express & impress 族
 
 	express
+
+	Men are generally better able to express anger.
+
+	男人通常能更好地表达愤怒。
+
+	He has never given express orders.
+
+	他从未下过明确的命令。
+
+	How many hours does it take to get to London by express?
+
+	搭乘快车到伦敦需要几个小时？
+
+	Can I deliver the file by express?
+
+	我可以用快递寄送这份文件吗？
+
 
 	expression
 
