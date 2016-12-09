@@ -478,7 +478,7 @@
 
 	所有这些运动都受到政府的镇压。
 
-	suppression
+	suppression suppress 的名词
 
 	(3) express & impress 族
 
