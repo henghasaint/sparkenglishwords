@@ -508,10 +508,61 @@
 
 	我可以用快递寄送这份文件吗？
 
-
 	expression
 
+	War is the most acute form of expression of violence.
+
+	战争是暴力所表现的最剧烈形式。
+
+	We'll provide you with a loan of three million yuan as an expression of our good will.
+
+	提供300万元贷款表示我们的一点心意。
+
+	Language is a means for the expression of thought.
+
+	语言是一种表达思想的方式。
+
+	He is happy in his choice of expression.
+
+	他善于措辞.
+
+	The Three Language Action of the Expression
+
+	声调的三种语言作用
+
+	That expression has gone out. Nobody uses it now.
+
+	那个词句已经过时,现在没有人用它了.
+
+	Her expression suddenly altered
+
+	她的表情一下子变了。
+
+	The Chinese have an expression for it," yuan fen ".
+
+	对此，汉语里有个说法叫做“缘分”。
+
+	His expression was strangely tender.
+
+	他的脸色异常温和了。
+
 	expressive
+
+	I've to say that I'm not an expressive people.
+
+	不得不说我是个不善于表达的人。
+
+	He is very expressive on the stage.  
+
+	他在舞台上有极强的表现力。
+
+	He had a mobile, expressive, animated face.
+
+	他有一张多变的，富于表情的，生动活泼的脸
+
+	The color and form of her eyes, like her mother's and therefore beautiful, but so much sweeter, more expressive.
+
+	她眼睛的色彩和样子像她的母亲，非常美丽，但却更加可爱，更加传神
 
 	expressly
 
