@@ -566,6 +566,14 @@
 
 	expressly
 
+	Tom expressly pointed out the mistake.
+
+	汤姆明确地指出了那个错误。
+
+	This ship was designed expressly for exploring the Arctic waters.
+
+	这艘船是为考察北极水域而特意设计的。
+
 	impress
 
 	impression
