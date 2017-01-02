@@ -576,18 +576,99 @@
 
 	impress
 
+	They tried to impress a design on the table - cloth.
+
+	他们试图在桌布上印一个图样.
+
+	Time has left its impress upon him.
+
+	岁月在他身上留下了印记.
+
+	She did not impress me at all.
+
+	她没给我留下丝毫印象。
+
+	How did these countries impress you?
+
+	这些国家给你什么印象?
+
+	My father impress on me the importance of hard work.
+
+	我父亲要我牢记努力工作的重要性。
+
 	impression
 
+	The events left a permanent impression in his mind.
+
+	那些事在他的脑海中留下了永久的印记.
+
+	Punishment seemed to make no impression on the child.
+
+	惩罚对这孩子似乎没什么效果.
+
+	The wood will leave an impression in the clay.
+
+	这个木材会在泥土上留下一个盖印.
+
+	Her address made a great impression on the audience
+
+	她的演说在听众中产生了巨大影响.
+
+	My impression is that they are totally out of control.
+
+	我的感觉是他们完全失去了控制。
+
+	Do you get the impression this guy was trying to keep something out?
+
+	你有没有感觉到这个人企图隐瞒些什么?
+
 	impressive
+
+	You made a very impressive speech. I believe it will change my life.
+
+	你发表了非常感人的演讲. 我相信它将改变我的一生.
+
+	His collection of paintings is the most impressive.
+
+	他的绘画收藏令人叹为观止。
+
+	A cathedral is an impressive building.
+
+	大教堂是能给人留下深刻印象的建筑物。
 
 	(4) oppress
 
 	oppress
 
+	A good ruler will not oppress the poor.
+
+	好的统治者不会压迫贫民.
+
+	Do not oppress him.
+
+	你不可欺负他。
+
+	It was not just the weather which oppressed her.
+
+	让她心烦的不只是天气。
+
 	oppression
+
+	When did they rise against oppression?
+
+	他们什么时候起来反抗压迫的?
+
+	The low ceiling of the room gave me a feeling of oppression.
+
+	低矮的屋顶给我一种压抑的感觉。
 
 	oppressive
 
+	oppressive conduct 暴行
+
+	oppressive taxation 重税
+
+	oppressive weather 沈闷天气 ; 闷热天气 ; 抑闷的天气
 
 
 ```
@@ -595,6 +676,31 @@
 ```
 
 1.  shell
+
+	The snail has rotted away in its shell.
+
+	这只蜗牛已经在壳里腐烂完了.
+
+	Rinse and shell the big prawns.
+
+	大海虾洗净、去壳.
+
+	The wheat will shell after a few days.
+
+	麦子已熟透,再过几天就会脱落了.
+
+	The solid feel of the car's shell is impressive.
+
+	这辆汽车的外壳给人的感觉异常坚固。
+
+	he shell burst overhead.
+
+	炮弹在头顶上爆炸了。
+
+	They continued to shell towns on the northern coast.
+
+	他们继续炮击北方海岸一带的城市。
+
 2.  (1)shell(壳) --> skull(脑壳)
 
 	skull
